@@ -2,7 +2,7 @@
 
 ## ICCV 2023
 
-### [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_COMPASS_High-Efficiency_Deep_Image_Compression_with_Arbitrary-scale_Spatial_Scalability_ICCV_2023_paper.pdf) | [Project Page](https://imjongminpark.github.io/compass_webpage/) | [Video](https://www.youtube.com/watch?v=Zfo3f__suwQ)
+### [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_COMPASS_High-Efficiency_Deep_Image_Compression_with_Arbitrary-scale_Spatial_Scalability_ICCV_2023_paper.pdf) | [Project Page](https://kaist-viclab.github.io/compass-site/) | [Video](https://www.youtube.com/watch?v=Zfo3f__suwQ)
 
 ## Installation
 
